@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environment
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated folders
+logs/
+quarantine/
+simulated_files/
+
+# IDE
+.vscode/
+.idea/
+
+# Incident reports
+incident_report.json
+audit_log.json
